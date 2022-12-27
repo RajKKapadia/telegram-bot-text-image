@@ -31,6 +31,7 @@ To replicate the work of this repository and run it locally, you need to follow 
     DB_NAME=MONGODB DB NAME
     COLLECTION_NAME=MONGO DB COLLECTION NAME
     ```
+* create a virtual environment and activate it before installing the packages
 * install all the required dependencies from the `requirements.txt` file
 ```python
 pip install -r requirements.txt
